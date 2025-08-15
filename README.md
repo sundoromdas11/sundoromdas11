@@ -16,11 +16,6 @@
 - 📫 How to reach me **dsundorom@gmail.com**
 
 - ⚡ Fun fact **I am a competitive programmer (LeetCode 2200+, Codeforces Expert) who trains models by breaking them**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://linkedin.com/in/sundorom-das-a9378a227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/sundorom-das-a9378a227" height="30" width="40" /></a>
